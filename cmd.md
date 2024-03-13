@@ -10,4 +10,4 @@
 '''sh dir'''
 
 Удаление файла в Windows
-'''sh del'''
+'''sh del < filename >'''
