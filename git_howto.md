@@ -15,3 +15,7 @@ git add "название файла"
 ```sh
 git commit -m "Message"
 ```
+Показать точки сохраненния прогресса
+```sh
+git log или git log --oneline
+```
