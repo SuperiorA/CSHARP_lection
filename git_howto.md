@@ -33,3 +33,4 @@ git checkout "Первые 6 цифр точки сохранения"
 ```sh
 git diff
 ```
+Зачеркнутый текст ~~Very much bad words~~
