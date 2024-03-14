@@ -1,13 +1,17 @@
 # Подсказки по командной строке
 
 Команда смены директории
-'''sh cd c:\folder_name'''
+
+    cd c:\folder_name
 
 Команда отображения текущей директории
-'''sh pwd'''
+
+    pwd
 
 Листинг текущей директории в Windows
-'''sh dir'''
+
+    dir
 
 Удаление файла в Windows
-'''sh del < filename >'''
+    
+    del < filename >
