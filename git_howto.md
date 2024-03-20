@@ -27,10 +27,11 @@ git checkout "Первые 6 цифр точки сохранения"
 ```
 # Картинка
 
-![Инь-Янь](https://ru.freepik.com/premium-photo/yin-and-yang-made-of-fire-and-water-symbol-of-harmony_34622515.htm "Инь Янь")
+![Инь-Янь](inei.JPG)
 
 Показать различия между точками сохранения
 ```sh
 git diff
 ```
 Зачеркнутый текст ~~Very much bad words~~
+
