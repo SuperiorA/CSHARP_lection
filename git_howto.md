@@ -23,7 +23,7 @@ git log или git log --oneline
 
 Загрузить точку сохранения
 ```sh
-git checkout "Первые 6 цифр точки сохранения" или "branch name"
+git checkout "Первые 6 цифр точки сохранения" или имя ветки
 ```
 # Картинка
 
@@ -39,3 +39,7 @@ git diff
 
 [ШБ №1](http://www.puncherschool.ru/ "бокс детишкам")
 
+## Отображение всех веток
+```sh
+git branch
+```
