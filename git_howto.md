@@ -36,13 +36,31 @@ git diff
 
 ## Добавление ссылки
 
-mnsdfbmsnfsfsf
+[ШБ №1](http://www.puncherschool.ru/ "бокс детишкам")
 
-sdkjfbsdjbfshbfs
+## Отображение всех веток
+```sh
+git branch
+```
 
-sdfjsdbfskfsdfdsf
-smdnfbsdfs
-sdfmnsbdfjs
+# Удаление ветки
+```sh
+git branch -d "название ветки"
+```
 
+## Make new branch
+```sh
+git branch "branch name"
+```
 
-sdfsbdfbsdfbsdfbsfmsdfs
+## Выход из редактора Wim
+```sh
+Нажать Esc, затем :wq и всё
+```
+
+## Слияние веток 
+```sh
+Перейти в основную ветку и набрать команду 
+git merge "название ветки"
+```
+
