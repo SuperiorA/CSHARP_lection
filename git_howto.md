@@ -32,7 +32,7 @@ git checkout "Первые 6 цифр точки сохранения" или и
 ```sh
 git diff
 ```
-Зачеркнутый текст ~~Very much bad words~~
+Зачеркнутый text ~~Very much bad words~~
 
 ## Добавление ссылки
 
@@ -43,13 +43,12 @@ git diff
 git branch
 ```
 
-## Удаление ветки sdhfvsdf
+# Уsdfsdfsdfдаление ветки sdhfvsdf
 ```sh
-git branch -d ndfkjfnsknv slkdfdsjvbs
-sdfsdfjsf
+gt bh -d ndfkjfnsknv slkdfdsjvbs
 ```
 
-## Создание новой ветки
+## Make new branch
 ```sh
 git branch "branch name"
 ```
