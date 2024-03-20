@@ -39,3 +39,7 @@ git diff
 
 [ШБ №1](http://www.puncherschool.ru/ "бокс детишкам")
 
+## Отображение всех веток
+```sh
+git branch
+```
