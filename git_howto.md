@@ -43,9 +43,9 @@ git diff
 git branch
 ```
 
-# Уsdfsdfsdfдаление ветки sdhfvsdf
+# Удаление ветки
 ```sh
-gt bh -d ndfkjfnsknv slkdfdsjvbs
+git branch -d "название ветки"
 ```
 
 ## Make new branch
