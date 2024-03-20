@@ -43,3 +43,7 @@ git diff
 ```sh
 git branch
 ```
+## Удаление ненужной ветки
+```sh
+git branch -d название ветки
+```
