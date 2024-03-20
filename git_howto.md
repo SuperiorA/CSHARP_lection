@@ -35,3 +35,7 @@ git diff
 ```
 Зачеркнутый текст ~~Very much bad words~~
 
+## Добавление ссылки
+
+[ШБ №1](http://www.puncherschool.ru/ "бокс детишкам")
+
