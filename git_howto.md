@@ -50,7 +50,7 @@ git branch -d название ветки
 
 ## Создание новой ветки
 ```sh
-git branch "название ветки"
+git branch "branch name"
 ```
 
 ## Выход из редактора Wim
