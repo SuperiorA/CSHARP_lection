@@ -43,9 +43,10 @@ git diff
 git branch shopper
 ```
 
-## Удаление ненужной ветки
+## Удаление ветки sdhfvsdf
 ```sh
-git branch -d название ветки
+git branch -d ndfkjfnsknv slkdfdsjvbs
+sdfsdfjsf
 ```
 
 ## Создание новой ветки
