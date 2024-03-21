@@ -15,7 +15,8 @@ git add "название файла"
 git commit -m "Message text"
 ```
 
-Показать точки сохраненния прогресса
+# What abiut lunch
+Да, конечноit's great idea.сохраненния прогресса
 ```sh
 git log или git log --oneline
 ```
@@ -59,8 +60,10 @@ git branch "branch name"
 ```
 
 ## Слияние веток 
-```sh
-Перейти в основную ветку и набрать команду 
+__Перейти в слияние веток__
+
+*TAKE A command*  и набрать команду 
 git merge "название ветки"
-```
+////////
+
 
