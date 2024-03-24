@@ -72,6 +72,5 @@ git reset --hard и "хэш или тэг коммита, до которого 
 
 ## Переход в предыдущий хэш
 ```sh
-git checkout 'name branch"^ (две крышки переход на предпредпоследний хэш и т.д)
+git checkout "name branch"^ либо git checkout "name branch"~<количество отматываемых комитов>
 ```
-
