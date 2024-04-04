@@ -1,3 +1,8 @@
 .gitignore
 Volina.jpg
 inei.jpg
+\320\241\320\272\321\200\320\270\320\275 pull request.jpg
+
+# Files built by Visual studio
+*.bin
+*.obj
